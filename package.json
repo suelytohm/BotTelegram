@@ -1,0 +1,23 @@
+{
+  "name": "bottelegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suelytohm/BotTelegram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suelytohm/BotTelegram/issues"
+  },
+  "homepage": "https://github.com/suelytohm/BotTelegram#readme",
+  "dependencies": {
+    "telegraf": "^4.8.5"
+  }
+}
